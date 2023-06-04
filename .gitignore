@@ -1,0 +1,14 @@
+# WebStorm
+.idea/
+
+# Caches
+*.iml
+*.iws
+*.ipr
+
+# Compiled output
+/dist/
+
+# Dependency directories
+/node_modules/
+/bower_components/
